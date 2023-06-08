@@ -1,6 +1,8 @@
 import express from 'express';
 import bodyParser from 'body-parser';
 import foodsRoutes from './routes/foods.js';
+import user_daily_mealRoutes from './routes/user_daily_meals.js'
+import user_whsRoutes from './routes/user_whs.js'
 import db from './connection.js';
 import response from './response.js';
 
@@ -10,6 +12,8 @@ const PORT = 5000;
 app.use(bodyParser.json());
 
 app.use('/foods', foodsRoutes);
+app.use('/user_daily_meals', user_daily_mealRoutes);
+app.use('/user_whs', user_whsRoutes);
 
 app.get('/', (req, res) => {
     console.log('[TEST]!');
@@ -39,5 +43,7 @@ app.get('/', (req, res) => {
 //     })
 //     // console.log("Hi");
 // })
+
+
 
 app.listen(PORT, () => console.log(`Server running on port : http://localhost:${PORT}`));
