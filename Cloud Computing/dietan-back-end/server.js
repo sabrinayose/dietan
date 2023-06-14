@@ -4,7 +4,8 @@ import foodsRoutes from './routes/foods.js';
 import user_daily_mealRoutes from './routes/user_daily_meals.js';
 import user_whsRoutes from './routes/user_whs.js';
 import userRoutes from './routes/users.js';
-import user_medical_historyRoutes from './routes/user_medical_histories.js';
+import user_activityRoutes from './routes/user_activity.js';
+import functionRoutes from './routes/function.js';
 
 const app = express();
 const PORT = 5000;
@@ -15,7 +16,8 @@ app.use('/foods', foodsRoutes);
 app.use('/users', userRoutes);
 app.use('/user_daily_meals', user_daily_mealRoutes);
 app.use('/user_whs', user_whsRoutes);
-app.use('/user_medical_histories', user_medical_historyRoutes);
+app.use('/user_activities', user_activityRoutes);
+app.use('/function', functionRoutes)
 
 app.get('/', (req, res) => {
     console.log('[TEST]!');
