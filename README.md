@@ -1,11 +1,10 @@
-## Project Name and Description
-### dietan
+# Project Name and Description
+## dietan
 Bangkit 2023 Batch 1 Capstone Project - App for user to control calories intake
+</br>
 
-
-## Team Member
-### Team C23-PC597
-
+# Team Member
+## Team C23-PC597
 | Name        | Student ID     | Path  |       |
 | ------------- |:-------------:|:-----:|-----|
 | Anindya Sekar Paramitha | M238DSY0264 | Machine Learning | [@shamankares](https://github.com/shamankares) |
@@ -14,4 +13,33 @@ Bangkit 2023 Batch 1 Capstone Project - App for user to control calories intake
 | Hiroyuki Yoshino | C017DSX2630 | Cloud Computing | [@yukishiyi](https://github.com/yukishiyi) |
 | Sabrina Yose Amelia | C239DSY0949 | Cloud Computing | [@sabrinayose](https://github.com/sabrinayose) |
 | Nicholas Janitra | A168DSX2033 | Mobile Development |    |
+</br>
+
+# Development Tools
+## Machine Learning
++ Google Colab
+  + Libraries: Tensorflow and Tensorflow Lite
+
+## Cloud Computing
++ Google Cloud
+  + Cloud SQL for database
+  + Cloud Run for backend
++ JavaScript
+  + Node.js (Framework: Express.js)
++ Visual Studio Code
+
+## Mobile Development
++ Android Studio
+
+## Group
++ GitHub
+
+# Note :
++ Cloud Computing source code 
+  => Branch [dietan-backend](https://github.com/sabrinayose/dietan/tree/dietan-backend) 
+  => Folder Cloud Computing
++ Machine Learning source code
+  => Branch [main](https://github.com/sabrinayose/dietan/tree/main)
+  => Folder Machine Learning
+
 
