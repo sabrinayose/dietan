@@ -7,7 +7,7 @@ Bangkit 2023 Batch 1 Capstone Project - App for user to control calories intake
 ### Team C23-PC597
 
 | Name        | Student ID     | Path  |       |
-| ------------- |:-------------:|:-----:|:-----|
+| ------------- |:-------------:|:-----:|-----|
 | Anindya Sekar Paramitha | M238DSY0264 | Machine Learning | [@shamankares](https://github.com/shamankares) |
 | Annisa Rizka Aulia | M065DSY0264 | Machine Learning | [@annisarizkaaulia](https://github.com/annisarizkaaulia) |
 | Zana Niswah Awahita | M181DSY2517 | Machine Learning |   |
