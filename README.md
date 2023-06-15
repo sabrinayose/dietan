@@ -1,7 +1,5 @@
-
-
 ## Team Member
-**Team C23-PC597**
+### Team C23-PC597
 
 | Name        | Student ID     | Path  |       |
 | ------------- |:-------------:|:-----:|:-----|
