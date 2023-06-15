@@ -35,11 +35,11 @@ Bangkit 2023 Batch 1 Capstone Project - App for user to control calories intake
 + GitHub
 
 ## Note :
-+ Cloud Computing source code 
-  => Branch [dietan-backend](https://github.com/sabrinayose/dietan/tree/dietan-backend) 
++ Cloud Computing source code <br>
+  => Branch [dietan-backend](https://github.com/sabrinayose/dietan/tree/dietan-backend) <br>
   => Folder Cloud Computing
-+ Machine Learning source code
-  => Branch [main](https://github.com/sabrinayose/dietan/tree/main)
++ Machine Learning source code <br>
+  => Branch [main](https://github.com/sabrinayose/dietan/tree/main) <br>
   => Folder Machine Learning
 
 
