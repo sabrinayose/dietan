@@ -2,6 +2,7 @@
 ### dietan
 Bangkit 2023 Batch 1 Capstone Project - App for user to control calories intake
 </br>
+</br>
 
 ## Team Member
 **Team C23-PC597**
@@ -33,6 +34,8 @@ Bangkit 2023 Batch 1 Capstone Project - App for user to control calories intake
 
 **Group**
 + GitHub
+
+</br>
 
 ## Note :
 + Cloud Computing source code <br>
