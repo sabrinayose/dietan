@@ -1,3 +1,8 @@
+## Project Name and Description
+### dietan
+Bangkit 2023 Batch 1 Capstone Project - App for user to control calories intake
+
+
 ## Team Member
 ### Team C23-PC597
 
@@ -10,7 +15,3 @@
 | Sabrina Yose Amelia | C239DSY0949 | Cloud Computing | [@sabrinayose](https://github.com/sabrinayose) |
 | Nicholas Janitra | A168DSX2033 | Mobile Development |    |
 
-
-## Project Name and Description
-### dietan
-Bangkit 2023 Batch 1 Capstone Project - App for user to control calories intake
