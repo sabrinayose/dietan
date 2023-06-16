@@ -1,6 +1,6 @@
 ## Project Name and Description
 ### dietan : App for user to control calories intake
-Bangkit 2023 Batch 1 Capstone Project 
+Bangkit 2023 Batch 1 Capstone Project <br>
 Dietan is an android app, which can be your smart assistant to maintain healthy diets by defining your calorie needs, track your calories intake, also suggest you what to consume.
 </br>
 </br>
