@@ -10,7 +10,7 @@ Dietan is an android app, which can be your smart assistant to maintain healthy 
 
 ## Team Member
 **Team C23-PC597**
-| Name        | Student ID     | Path  |       |
-| ------------- |:-------------:|:-----:|-----|
-| Nicholas Janitra | A168DSX2033 | Mobile Development |    |
+| Name        | Student ID     | Path  |
+| ------------- |:-------------:|:-----:|
+| Nicholas Janitra | A168DSX2033 | Mobile Development |
 </br>
