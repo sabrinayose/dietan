@@ -19,7 +19,11 @@ Bangkit 2023 Batch 1 Capstone Project - App for user to control calories intake
 ## Development Tools
 **Machine Learning**
 + Google Colab
-  + Libraries: Tensorflow and Tensorflow Lite
+  + Libraries: 
+    + Tensorflow and Tensorflow Lite
+    + pandas
+    + numpy
+    + matplotlib
 
 **Cloud Computing**
 + Google Cloud
